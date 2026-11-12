@@ -81,7 +81,7 @@
   "github_repo": "lyrion",
   "upstream_version": "9.1.1",
   "release_tag_prefix": "v",
-  "version": "9.1.1-1",
+  "version": "9.1.1-2",
   "help": "https://github.com/Moechz/lyrion/issues",
   "official": "https://github.com/LMS-Community/slimserver",
   "license": "GPL-2.0",
